@@ -1,3 +1,8 @@
+---
+name: basic_issue_template
+about: basic_issue_template
+---
+
 ## Domain
 - domain
 
